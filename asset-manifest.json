@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TraitTechHive/static/css/main.2b5c9939.css",
-    "main.js": "/TraitTechHive/static/js/main.91f141e4.js",
+    "main.js": "/TraitTechHive/static/js/main.3e8846d5.js",
     "static/js/453.bdf565f7.chunk.js": "/TraitTechHive/static/js/453.bdf565f7.chunk.js",
     "static/media/46.png": "/TraitTechHive/static/media/46.c595a2e140a543b10fea.png",
     "static/media/19.png": "/TraitTechHive/static/media/19.c4c362449b0da19a1525.png",
     "static/media/17.png": "/TraitTechHive/static/media/17.9bf3e1d17ac288675c32.png",
     "static/media/29.png": "/TraitTechHive/static/media/29.7554ec05849280695482.png",
-    "static/media/Stephanie.png": "/TraitTechHive/static/media/Stephanie.f15c28f3b7d0a23a5c75.png",
-    "static/media/RHONA.png": "/TraitTechHive/static/media/RHONA.76b6b23e8f27922d19c9.png",
+    "static/media/Lakandula.png": "/TraitTechHive/static/media/Lakandula.f15c28f3b7d0a23a5c75.png",
+    "static/media/Diwa.png": "/TraitTechHive/static/media/Diwa.76b6b23e8f27922d19c9.png",
     "static/media/30.png": "/TraitTechHive/static/media/30.6a786dbfa2b2ea3a6de9.png",
     "static/media/42.png": "/TraitTechHive/static/media/42.9066a4e9e8b4d200cda4.png",
     "static/media/22.png": "/TraitTechHive/static/media/22.dd6aa4745264879685cd.png",
@@ -18,7 +18,7 @@
     "static/media/48.png": "/TraitTechHive/static/media/48.b84026fe71f656e78aa9.png",
     "static/media/47.png": "/TraitTechHive/static/media/47.7d3eea8ecd33c52a1850.png",
     "static/media/36.png": "/TraitTechHive/static/media/36.bf0c4b484e6255b607c9.png",
-    "static/media/Iana.png": "/TraitTechHive/static/media/Iana.8e82d6b1407795c9fef2.png",
+    "static/media/Mayumi.png": "/TraitTechHive/static/media/Mayumi.8e82d6b1407795c9fef2.png",
     "static/media/33.png": "/TraitTechHive/static/media/33.ebaade124a7bcbd60975.png",
     "static/media/32.png": "/TraitTechHive/static/media/32.f9037268500cb6e611f9.png",
     "static/media/6.png": "/TraitTechHive/static/media/6.a4b1fefa00be3e75597e.png",
@@ -36,7 +36,7 @@
     "static/media/31.png": "/TraitTechHive/static/media/31.5416c91a1bcfc1c96af8.png",
     "static/media/26.png": "/TraitTechHive/static/media/26.26e32e3ee6fa571386c9.png",
     "static/media/11.png": "/TraitTechHive/static/media/11.f89e3d524dea6b0e2f38.png",
-    "static/media/Chester.png": "/TraitTechHive/static/media/Chester.077a2fb546a654624681.png",
+    "static/media/Bayani.png": "/TraitTechHive/static/media/Bayani.077a2fb546a654624681.png",
     "static/media/39.png": "/TraitTechHive/static/media/39.c63c223ba91298a55460.png",
     "static/media/34.png": "/TraitTechHive/static/media/34.c01e27ef5a85e5dd4490.png",
     "static/media/9.png": "/TraitTechHive/static/media/9.c52699fad414ae360fa3.png",
@@ -52,7 +52,6 @@
     "static/media/10.png": "/TraitTechHive/static/media/10.0e51e04b8bc3d7a540a5.png",
     "static/media/28.png": "/TraitTechHive/static/media/28.3f94a4a4102c65f3c7ad.png",
     "static/media/all.jpg": "/TraitTechHive/static/media/all.0a1b3025e6700ba92194.jpg",
-    "static/media/qr-code.png": "/TraitTechHive/static/media/qr-code.2859454f4a47036ab7f7.png",
     "static/media/Pro Plan.jpg": "/TraitTechHive/static/media/Pro Plan.3ca0e7f43062a6bbe979.jpg",
     "static/media/genz.jpg": "/TraitTechHive/static/media/genz.a4f9c26e276a6459aa19.jpg",
     "static/media/kumakaway.jpg": "/TraitTechHive/static/media/kumakaway.e032da6765ad07ee9a66.jpg",
@@ -63,11 +62,11 @@
     "static/media/slick.woff": "/TraitTechHive/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/TraitTechHive/index.html",
     "main.2b5c9939.css.map": "/TraitTechHive/static/css/main.2b5c9939.css.map",
-    "main.91f141e4.js.map": "/TraitTechHive/static/js/main.91f141e4.js.map",
+    "main.3e8846d5.js.map": "/TraitTechHive/static/js/main.3e8846d5.js.map",
     "453.bdf565f7.chunk.js.map": "/TraitTechHive/static/js/453.bdf565f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b5c9939.css",
-    "static/js/main.91f141e4.js"
+    "static/js/main.3e8846d5.js"
   ]
 }
