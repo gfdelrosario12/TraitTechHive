@@ -11,19 +11,19 @@ import { CiCalculator1 } from "react-icons/ci";
 import { Link } from "react-router-dom";
 import CardSideImage from "../General Components/CardSideImage";
 import { connect } from "react-redux";
-import Iana from "../../assets/images/reporters/Iana.png";
-import Stephanie from "../../assets/images/reporters/Stephanie.png";
-import Chester from "../../assets/images/reporters/Chester.png";
-import Rhona from "../../assets/images/reporters/RHONA.png";
+import Mayumi from "../../assets/images/reporters/Mayumi.png";
+import Lakandula from "../../assets/images/reporters/Lakandula.png";
+import Bayani from "../../assets/images/reporters/Bayani.png";
+import Diwa from "../../assets/images/reporters/Diwa.png";
 
 const HomeComponent = ({ children, value1, value2, value3, changeValues }) => {
   const [clickedCard, setClickedCard] = useState(null);
 
   const cards = [
-    { id: 1, title: "Camina Juliana Bautista", imageUrl: Iana, subtext: "Head" },
-    { id: 2, title: "Stephanie Amor Bartolay", imageUrl: Stephanie, subtext: "Research Staff" },
-    { id: 3, title: "Chester Wolf C. Enriquez", imageUrl: Chester, subtext: "Tech Staff" },
-    { id: 4, title: "Rhona May Butalon", imageUrl: Rhona, subtext: "Field Staff" },
+    { id: 1, title: "Mayumi Tala", imageUrl: Mayumi, subtext: "Head" },
+    { id: 2, title: "Lakandula Amihan", imageUrl: Lakandula, subtext: "Research Staff" },
+    { id: 3, title: "Bayani Malaya", imageUrl: Bayani, subtext: "Tech Staff" },
+    { id: 4, title: "Diwa Alon", imageUrl: Diwa, subtext: "Field Staff" },
   ];
 
   const handleCardClick = (card) => {
